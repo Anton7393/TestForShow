@@ -1,2 +1,2 @@
 def fooB():
-    print('this is feature B')
+    print('this is feature - B')
